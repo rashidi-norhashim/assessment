@@ -19,6 +19,10 @@ In this notebook, exploratory data analysis was performed to understand the unde
 
 The final notebook in this series focuses on building a predictive model based on the features selected in the previous notebook. It includes the process of model training, validation, and evaluation of 3 models, namely, logistic regression, decision tree and random forest.
 
+## Getting Started
+
+To get started with this project, clone the repository and install the required packages listed in the `requirements.txt` file. Then, you can run each Jupyter notebook in order.
+
 ## Prerequisites
 
 ### Python Libraries
@@ -29,8 +33,9 @@ This project requires Python and the following Python libraries installed:
 - [Pandas](http://pandas.pydata.org) (2.0.3)
 - [matplotlib](http://matplotlib.org/) (3.7.2)
 - [seaborn](https://seaborn.pydata.org/) (0.12.2)
-- [scikit-learn](http://scikit-learn.org/stable/) (1.2.2)
-- [sqlite3](https://docs.python.org/3/library/sqlite3.html) (3.41.2)
+- [scikit-learn](http://scikit-learn.org/stable/) (1.3.0)
+- [sqlite](https://docs.python.org/3/library/sqlite3.html) (3.45.3)
+- [imblearn](https://pypi.org/project/imbalanced-learn/) (0.12.2)
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html)
 
