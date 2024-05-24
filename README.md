@@ -27,7 +27,7 @@ To get started with this project, clone the repository and install the required 
 
 ### Python Libraries
 
-This project requires Python and the following Python libraries installed:
+This project requires Python (3.8.18) and the following Python libraries installed:
 
 - [NumPy](http://www.numpy.org/) (1.24.3)
 - [Pandas](http://pandas.pydata.org) (2.0.3)
@@ -36,6 +36,7 @@ This project requires Python and the following Python libraries installed:
 - [scikit-learn](http://scikit-learn.org/stable/) (1.3.0)
 - [sqlite](https://docs.python.org/3/library/sqlite3.html) (3.45.3)
 - [imblearn](https://pypi.org/project/imbalanced-learn/) (0.12.2)
+- [sqlalchemy](https://www.sqlalchemy.org/) (2.0.30)
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html)
 
